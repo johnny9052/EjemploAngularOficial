@@ -1,0 +1,4 @@
+Descargar version proyecto: git checkout -f step-#NumeroDelProyecto
+
+
+Iniciar servidor: npm start
